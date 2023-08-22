@@ -13,10 +13,10 @@ Set-ExecutionPolicy RemoteSigned -Force
 ### 👉 Start Project
 
 > **1.Setup virtual environment & Install Requirements**
-
+update readme.
 ```bash
 $ python -m venv env
-$ .\env\Scripts\activate.ps1
+$ .\env1\Scripts\activate.ps1
 $ pip install -r requirements.txt
 ```
 
